@@ -1,0 +1,9 @@
+c:\users\hector\documents\visual studio 2015\Projects\ProyectoFinal2s2018\ProyectoFinal2s2018\bin\Debug\ProyectoFinal2s2018.exe.config
+c:\users\hector\documents\visual studio 2015\Projects\ProyectoFinal2s2018\ProyectoFinal2s2018\bin\Debug\ProyectoFinal2s2018.exe
+c:\users\hector\documents\visual studio 2015\Projects\ProyectoFinal2s2018\ProyectoFinal2s2018\bin\Debug\ProyectoFinal2s2018.pdb
+c:\users\hector\documents\visual studio 2015\Projects\ProyectoFinal2s2018\ProyectoFinal2s2018\obj\Debug\ProyectoFinal2s2018.csprojResolveAssemblyReference.cache
+c:\users\hector\documents\visual studio 2015\Projects\ProyectoFinal2s2018\ProyectoFinal2s2018\obj\Debug\ProyectoFinal2s2018.Form1.resources
+c:\users\hector\documents\visual studio 2015\Projects\ProyectoFinal2s2018\ProyectoFinal2s2018\obj\Debug\ProyectoFinal2s2018.Properties.Resources.resources
+c:\users\hector\documents\visual studio 2015\Projects\ProyectoFinal2s2018\ProyectoFinal2s2018\obj\Debug\ProyectoFinal2s2018.csproj.GenerateResource.Cache
+c:\users\hector\documents\visual studio 2015\Projects\ProyectoFinal2s2018\ProyectoFinal2s2018\obj\Debug\ProyectoFinal2s2018.exe
+c:\users\hector\documents\visual studio 2015\Projects\ProyectoFinal2s2018\ProyectoFinal2s2018\obj\Debug\ProyectoFinal2s2018.pdb
